@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RevanthBalineni-14
 - 👀 I’m interested in Backend, FullStack Developer and AI/ML Roles
 - 🌱 I’m currently Master's Student at University in Buffalo, SUNY
-- 💞️ I’m looking to collaborate on projects that can build on my experience and can teach me new things
+- 💞️ I’m looking to collaborate on projects that build on my experience and can teach me new things
 - 📫 How to reach me Mail:revanthbalineni14@gmail.com
 
 <!---
