@@ -9,7 +9,7 @@ Hello! I'm Revanth Siva Sai Ram Balineni, and I'm on a mission to leverage techn
 - B.Tech in Computer Science, Shiv Nadar University, Greater Noida, India (GPA: 8.43/10) - Specialized in Data Science and minored in Mathematics.
 
 💼 **Work Experience:**
-- As a Software Developer Intern at DBS Bank (Development Bank of Singapore), I led the enhancement of the pre-approval process within the Alternative Lending platform. I focused on Backend Development, crafting microservices and RESTful APIs using Spring Boot. My contributions resulted in a 35% reduction in turnaround time by streamlining the codebase. I also have experience with tools like Bitbucket (Git) for version control and Jenkins for deployment.
+- As a Software Developer at DBS Bank (Development Bank of Singapore), I led the enhancement of the pre-approval process within the Alternative Lending platform. I focused on Backend Development, crafting microservices and RESTful APIs using Spring Boot. My contributions resulted in a 35% reduction in turnaround time by streamlining the codebase. I also have experience with tools like Bitbucket (Git) for version control and Jenkins for deployment.
 
 - During my time as a Research Intern at IIT Tirupati, I delved into cutting-edge topics like Ligand to Site Mapping and Ligand to Vector mapping. I applied machine learning techniques, PyTorch, and CUDA modules to map ligand vectors to binding sites, and developed innovative vectorization techniques. My work involved data extraction from the National PLIC database by IISc.
 
