@@ -26,5 +26,3 @@ I'm passionate about pushing the boundaries of technology and data science to so
 Let's connect! I'm open to discussing opportunities, collaborations, and exchanging insights with like-minded professionals in the field of computer science and software development. Together, we can make a difference. 👨‍💻🌟
 
 Feel free to connect with me here on Github or drop me a message at revanthbalineni14@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/revanthb14/).
-
-#ComputerScience #SoftwareDevelopment #DataScience #MachineLearning #Research #Education #Innovation #Collaboration
