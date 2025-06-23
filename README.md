@@ -11,8 +11,6 @@ Hello! I'm Revanth Siva Sai Ram Balineni, and I'm on a mission to leverage techn
   
 - **Software Developer at DBS Bank**: Led the enhancement of the pre-approval process within the Alternative Lending platform. Focused on Backend Development, crafting microservices and RESTful APIs using Spring Boot, resulting in a 35% reduction in turnaround time. Proficient with Bitbucket (Git) and Jenkins for deployment.
 
-- **Software Developer at Brahmayya & Co**: Worked on enhancing the firm’s business applications and streamlining internal processes. Involved in the full-stack development of web applications using Angular and Spring Boot.
-
 - **Research Intern at IIT Tirupati**: Specialized in Ligand to Site Mapping and Ligand to Vector mapping. Applied machine learning techniques, PyTorch, and CUDA for vectorization tasks, working with the National PLIC database by IISc.
 
 - **Undergraduate Teaching Assistant at Shiv Nadar University**: Supported Object-Oriented Programming courses by developing lab assessments, implementing anti-plagiarism measures, and assisting students in learning programming fundamentals.
